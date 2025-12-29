@@ -1,0 +1,10 @@
+{
+    "supportedLegacyProtocols": [
+        "TLS1.0",
+        "SSL3.0"
+    ],
+    "defaultFallbackSettings": {
+        "timeout": 5000,
+        "retryAttempts": 3
+    }
+}
